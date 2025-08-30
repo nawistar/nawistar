@@ -1,8 +1,8 @@
-## n    a   w  i s t  a   r    !
+## n   a  w i s  t   !
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=Venom&color=3d6691&height=180&text=👋%20Hi,%20I'm%20Nawistar&animation=scaleIn&fontColor=e6f1f7&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=Venom&color=3d6691&height=180&text=👋%20Hi,%20I'm%20Nawist&animation=scaleIn&fontColor=e6f1f7&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
