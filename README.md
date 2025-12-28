@@ -11,3 +11,6 @@
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
           </div>
     </div>
+
+
+<img src="https://gh-hits.nomadcoders.workers.dev/view?username=Nawistar" alt="Hits" />
